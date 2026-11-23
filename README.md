@@ -1,6 +1,6 @@
 Modded Minecraft enjoyer
 
-Learning Rust & C#
+Learning Python
 
 Interested in cybersecurity, systems programming, and embedded
 
